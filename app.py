@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-WEBHOOK_URL_WMG = st.secrets['url_lst']['webhook_wmg']
+WEBHOOK_URL_WMG = "https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NjUwNTY5MDYzZTA0MzM1MjZlNTUzMzUxM2Ei_pc"
 logo_path = "imgs/wmg_logo.png"
 bfw_path = "imgs/bfw_logo.png"
 
